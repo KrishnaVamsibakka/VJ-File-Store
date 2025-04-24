@@ -29,11 +29,11 @@
 
 <b><details><summary>Tap On Me For Environment Variable</summary>
 
-- `API_ID` : Get From [my.telegram.org](https://my.telegram.org)
-- `API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
-- `BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
-- `BOT_USERNAME` : Your Bot Username Without @
-- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- `API_ID` : Get From [my.telegram.org](29055333)
+- `API_HASH` : Get From [my.telegram.org](a6d154242eaef80a163bf5d0a7763882)
+- `BOT_TOKEN` : Get From [BotFather](7795414140:AAHPYxU-Yc7AJ3KcR-zWZmqFOYd4C_mNItQ)
+- `BOT_USERNAME` : Your Bot Username Without @(Cartoonworldtelugu_india09_bot) 
+- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here](mongodb+srv://anjireddyb98:3qiaVJINXarqFNKp@cluster0.kohnpcd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
 - `CLONE_DB_URI` : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
 - `ADMINS` : It mean Admin/Owner Id For Broadcasting Message.
 - `LOG_CHANNEL` : Log channel id start with -100xxxxxx
