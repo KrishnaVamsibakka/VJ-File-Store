@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "29055333"))
 API_HASH = environ.get("API_HASH", "a6d154242eaef80a163bf5d0a7763882")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7795414140:AAHPYxU-Yc7AJ3KcR-zWZmqFOYd4C_mNItQ")
 
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://freeimage.host/i/3M6AyTQ')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6828129421').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "Cartoonworldtelugu_india09_bot") # without @
 PORT = environ.get("PORT", "8080")
@@ -64,10 +64,10 @@ SHORTLINK_API = environ.get("SHORTLINK_API", "") # shortlink api
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "") # how to open link 
 
 # Website Info:
-WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', False)) # Set True or False
+WEBSITE_URL_MODE = bool(environ.get('WEBSITE_URL_MODE', True)) # Set True or False
 
 # If Website Url Mode Is True Then Fill All Required Variable, If False Then Don't Fill.
-WEBSITE_URL = environ.get("WEBSITE_URL", "") # For More Information Check Video On Yt - @Tech_VJ
+WEBSITE_URL = environ.get("WEBSITE_URL", "https://cartoonworldteluguindia.blogspot.com/2025/04/kv-btoaj.html") # For More Information Check Video On Yt - @Tech_VJ
 
 # File Stream Config
 STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
